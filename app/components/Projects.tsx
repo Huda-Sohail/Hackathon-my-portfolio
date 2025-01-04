@@ -1,7 +1,6 @@
 import React from 'react';
 import Heading from './Heading';
 import Card from './Card';
-import Image from 'next/image';  // Import the Next.js Image component
 
 const data = [
   {
